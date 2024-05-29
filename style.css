@@ -1,0 +1,67 @@
+.homercat{
+  width: 200px;
+  background-color: white;
+}
+.spidertocat{
+    width: 200px;
+    background-color: white;
+}
+.skatetocat{
+    width: 200px;
+    background-color: white;
+}
+.hula{
+    width: 200px;
+}
+.pythocat{
+    width: 200px;
+    background-color: white;
+}
+.doctocat{
+    width: 200px;
+}
+.scarletteocat{
+    width: 200px;
+}
+.steroidtocat{
+    width: 200px;
+}
+.firstContainer{
+    background-color: aquamarine;
+    width: 800px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+.secondContainer{
+    background-color: rgb(255, 127, 249);
+    width: 800px;
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    padding: 15px;
+    margin-bottom: 15px;
+}
+.thirdContainer{
+    background-color: aliceblue;
+    width: 800px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px;
+    margin-top: 20px;
+}
+.container{
+    max-width: 800px;
+    margin-inline: auto;
+}
+.gitHub{
+    margin-inline: auto;
+    max-width: 200px;
+    margin-top: 20px;
+}
+.gitHub span{
+    font-family: Arial, Helvetica, sans-serif;
+}
